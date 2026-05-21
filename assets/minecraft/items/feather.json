@@ -1,0 +1,462 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/bomb/icon"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/bouncy_bullets"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/hearty"
+        }
+      },
+	  {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/double_jump"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/martyrdom"
+        }
+      },
+	  {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/health_bars"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/quick_reload"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/better_accuracy"
+        }
+      },
+	  {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/clown_shoes"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/superball/icon"
+        }
+      },
+	  {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/scramble"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/stink_bomb/icon"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/thick_coat"
+        }
+      },
+	  {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/frost_bullets"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/leech"
+        }
+      },
+	  {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/meteor_shower"
+        }
+      },
+	  {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/ninja"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/speed"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/quick_draw"
+        }
+      },
+	  {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/rocket_boots"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/not_so_friendly_fire"
+        }
+      },
+	  {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/flare_gun/icon"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/rpg/icon"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/tertiary_boost"
+        }
+      },
+	  {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/boost_jumper"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/glide"
+        }
+      },
+	  {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/quick_hands"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/entrapped"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/laser_sights"
+        }
+      },
+	  {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/cats"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/the_skull"
+        }
+      },
+	  {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/thick_skin"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/bounce_pad/icon"
+        }
+      },
+	  
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/big_mag"
+        }
+      },
+	  {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/beserker"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/warcry"
+        }
+      },
+	  {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/ghost"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/necromancer"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/skeleton"
+        }
+      },
+	  {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/pumpkin"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/dizzy_potion"
+        }
+      },
+	  {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/vanish"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/mirage"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/big_bullets"
+        }
+      },
+	  
+	  {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/zombie_apocalypse"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/big_border"
+        }
+      },
+	  {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/randomizer"
+        }
+      },
+	  {
+        "threshold": 48,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/it_can_wait"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/resilient"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/shrink"
+        }
+      },
+	  {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/moon_gravity"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/sponge"
+        }
+      },
+	  {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/wind_charge"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/parting_gift"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/killrift"
+        }
+      },
+	  {
+        "threshold": 56,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/freeze_bomb/icon"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/runngun"
+        }
+      },
+	  {
+        "threshold": 58,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/tempo"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/got_your_back"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/avenge_me"
+        }
+      },
+	  
+	  {
+        "threshold": 61,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/sonar_grenade/icon"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/sticky_grenade/icon"
+        }
+      },
+	  
+	  
+	  
+	  {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/feather"
+        }
+      }
+    ],
+
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/feather"
+    }
+  }
+}

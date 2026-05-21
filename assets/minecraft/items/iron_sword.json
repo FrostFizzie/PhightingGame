@@ -1,0 +1,142 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/hammer/0"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/hammer/1"
+        }
+      },
+	  
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/scythe"
+        }
+      },
+	  
+	  {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/cleaver/0"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/cleaver/1"
+        }
+      },
+	  
+	  {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/spear/0"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/spear/1"
+        }
+      },
+	  
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/fireax/0"
+        }
+      },
+	  {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/fireax/1"
+        }
+      },
+	  
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/frying_pan/0"
+        }
+      },
+	  {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/frying_pan/1"
+        }
+      },
+	  
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/katana"
+        }
+      },
+	  
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/halberd/0"
+        }
+      },
+	  {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/halberd/1"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/pickaxe/0"
+        }
+      },
+	  {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/pickaxe/1"
+        }
+      },
+	  
+	  {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/iron_sword"
+        }
+      }
+    ],
+
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/iron_sword"
+    }
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/broker/default"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/broker/firing"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/broker/running"
+        }
+      },
+	  {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/broker/equipping"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/broker/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/winger/default"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/winger/firing"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/winger/running"
+        }
+      },
+	  {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/winger/equipping"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/winger/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/shredder/default"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/shredder/firing"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/shredder/running"
+        }
+      },
+	  {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/shredder/equipping"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/shredder/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/purity/default"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/purity/firing"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/purity/running"
+        }
+      },
+	  {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/purity/equipping"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/purity/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/oldie/default"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/oldie/firing"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/oldie/running"
+        }
+      },
+	  {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/oldie/equipping"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/oldie/reloading"
+        }
+      },
+	  {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/oldie/other"
+        }
+      },
+	  
+	  {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/cower/default"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/cower/firing"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/cower/running"
+        }
+      },
+	  {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/cower/equipping"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/cower/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 61,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/powder/default"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/powder/firing"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/powder/running"
+        }
+      },
+	  {
+        "threshold": 64,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/powder/equipping"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/powder/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 71,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/betty/default"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/betty/firing"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/betty/running"
+        }
+      },
+	  {
+        "threshold": 74,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/betty/equipping"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/betty/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 81,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/bowser/default"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/bowser/firing"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/bowser/running"
+        }
+      },
+	  {
+        "threshold": 84,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/bowser/equipping"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/bowser/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 91,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/hush/default"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/hush/firing"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/hush/running"
+        }
+      },
+	  {
+        "threshold": 94,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/hush/equipping"
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/hush/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/piercer/default"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/piercer/firing"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/piercer/running"
+        }
+      },
+	  {
+        "threshold": 104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/piercer/equipping"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/piercer/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/outline/default"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/outline/firing"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/outline/running"
+        }
+      },
+	  {
+        "threshold": 114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/outline/equipping"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/secondary/outline/reloading"
+        }
+      },
+	  
+	  
+	  
+	  
+	  
+      {
+        "threshold": 300,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/golden_horse_armor"
+        }
+      }
+    ],
+
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/golden_horse_armor"
+    }
+  }
+}

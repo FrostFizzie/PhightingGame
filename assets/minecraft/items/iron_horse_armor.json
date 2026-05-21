@@ -1,0 +1,624 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vector/default"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vector/firing"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vector/running"
+        }
+      },
+	  {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vector/equipping"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vector/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/verdant/default"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/verdant/firing"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/verdant/running"
+        }
+      },
+	  {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/verdant/equipping"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/verdant/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/grand/default"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/grand/firing"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/grand/running"
+        }
+      },
+	  {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/grand/equipping"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/grand/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/surge/default"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/surge/firing"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/surge/running"
+        }
+      },
+	  {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/surge/equipping"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/surge/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/chopper/default"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/chopper/firing"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/chopper/running"
+        }
+      },
+	  {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/chopper/equipping"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/chopper/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vanguard/default"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vanguard/firing"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vanguard/running"
+        }
+      },
+	  {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vanguard/equipping"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/vanguard/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 61,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/striker/default"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/striker/firing"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/striker/running"
+        }
+      },
+	  {
+        "threshold": 64,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/striker/equipping"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/striker/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 71,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/rattle/default"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/rattle/firing"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/rattle/running"
+        }
+      },
+	  {
+        "threshold": 74,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/rattle/equipping"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/rattle/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 81,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/storm/default"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/storm/firing"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/storm/running"
+        }
+      },
+	  {
+        "threshold": 84,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/storm/equipping"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/storm/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 91,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/nailer/default"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/nailer/firing"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/nailer/running"
+        }
+      },
+	  {
+        "threshold": 94,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/nailer/equipping"
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/nailer/reloading"
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/nailer/nail"
+        }
+      },
+	  
+	  {
+        "threshold": 101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/quasar/default"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/quasar/firing"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/quasar/running"
+        }
+      },
+	  {
+        "threshold": 104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/quasar/equipping"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/quasar/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/bolt/default"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/bolt/firing"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/bolt/running"
+        }
+      },
+	  {
+        "threshold": 114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/bolt/equipping"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/bolt/reloading"
+        }
+      },
+      {
+        "threshold": 116,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/bolt/bolt"
+        }
+      },
+	  
+	  {
+        "threshold": 121,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/doubler/default"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/doubler/firing"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/doubler/running"
+        }
+      },
+	  {
+        "threshold": 124,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/doubler/equipping"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/doubler/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 131,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/sploder/default"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/sploder/firing"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/sploder/running"
+        }
+      },
+	  {
+        "threshold": 134,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/sploder/equipping"
+        }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/sploder/reloading"
+        }
+      },
+      {
+        "threshold": 136,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/sploder/grenade"
+        }
+      },
+	  
+	  {
+        "threshold": 141,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/charger/default"
+        }
+      },
+      {
+        "threshold": 142,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/charger/firing"
+        }
+      },
+      {
+        "threshold": 143,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/charger/running"
+        }
+      },
+	  {
+        "threshold": 144,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/charger/equipping"
+        }
+      },
+      {
+        "threshold": 145,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/charger/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 151,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/ringer/default"
+        }
+      },
+      {
+        "threshold": 152,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/ringer/firing"
+        }
+      },
+      {
+        "threshold": 153,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/ringer/running"
+        }
+      },
+	  {
+        "threshold": 154,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/ringer/equipping"
+        }
+      },
+      {
+        "threshold": 155,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/weapon/primary/ringer/reloading"
+        }
+      },
+	  
+	  
+	  
+	  
+	  
+	  
+      {
+        "threshold": 500,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/iron_horse_armor"
+        }
+      }
+    ],
+
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/iron_horse_armor"
+    }
+  }
+}

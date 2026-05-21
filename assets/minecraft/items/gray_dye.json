@@ -1,0 +1,67 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/strawhat"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/orbiting"
+        }
+      },
+	  {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/cleaved"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/chefhat"
+        }
+      },
+	  {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/sunhat"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/propeller_hat"
+        }
+      },
+	  
+	  
+	  
+      {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/gray_dye"
+        }
+      }
+    ],
+
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/gray_dye"
+    }
+  }
+}

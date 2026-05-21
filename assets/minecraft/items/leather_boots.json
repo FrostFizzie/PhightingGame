@@ -1,0 +1,162 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/bomb/main"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/superball/main"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/stink_bomb/main"
+        }
+      },
+	  {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/bounce_pad/main"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/bounce_pad/launch"
+        }
+      },
+	  
+	  
+	  
+	  
+	  {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/flare_gun/default"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/flare_gun/firing"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/flare_gun/running"
+        }
+      },
+	  {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/flare_gun/equipping"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/flare_gun/reloading"
+        }
+      },
+	  
+	  {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/rpg/default"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/rpg/firing"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/rpg/running"
+        }
+      },
+	  {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/rpg/equipping"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/rpg/reloading"
+        }
+      },
+	  {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/rpg/rocket"
+        }
+      },
+	  
+	  {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/freeze_bomb/main"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/sonar_grenade/main"
+        }
+      },
+	  {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/relics/sticky_grenade/main"
+        }
+      },
+	  
+	  {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/leather_boots"
+        }
+      }
+    ],
+
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_boots"
+    }
+  }
+}

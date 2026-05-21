@@ -1,0 +1,97 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/knife/0"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/knife/1"
+        }
+      },
+	  
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/sword/0"
+        }
+      },
+	  {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/sword/1"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/sword/2"
+        }
+      },
+	  
+	  {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/baseball_bat/0"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/baseball_bat/1"
+        }
+      },
+	  
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/chainsaw/0"
+        }
+      },
+	  {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/chainsaw/1"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/melees/chainsaw/2"
+        }
+      },
+	  
+	  
+	  {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/ender_eye"
+        }
+      }
+    ],
+
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/ender_eye"
+    }
+  }
+}
