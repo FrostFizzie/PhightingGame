@@ -9,143 +9,276 @@
         "threshold": 1,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/bomb/main"
+          "model": "item/relics/bomb/main",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 2,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/superball/main"
+          "model": "item/relics/superball/main",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 3,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/stink_bomb/main"
+          "model": "item/relics/stink_bomb/main",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  {
+      {
         "threshold": 4,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/bounce_pad/main"
+          "model": "item/relics/bounce_pad/main",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 5,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/bounce_pad/launch"
+          "model": "item/relics/bounce_pad/launch",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  
-	  
-	  
-	  
-	  {
+
+
+
+
+      {
         "threshold": 11,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/flare_gun/default"
+          "model": "item/relics/flare_gun/default",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 12,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/flare_gun/firing"
+          "model": "item/relics/flare_gun/firing",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 13,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/flare_gun/running"
+          "model": "item/relics/flare_gun/running",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  {
+      {
         "threshold": 14,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/flare_gun/equipping"
+          "model": "item/relics/flare_gun/equipping",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 15,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/flare_gun/reloading"
+          "model": "item/relics/flare_gun/reloading",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  
-	  {
+
+      {
         "threshold": 21,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/rpg/default"
+          "model": "item/relics/rpg/default",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 22,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/rpg/firing"
+          "model": "item/relics/rpg/firing",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 23,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/rpg/running"
+          "model": "item/relics/rpg/running",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  {
+      {
         "threshold": 24,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/rpg/equipping"
+          "model": "item/relics/rpg/equipping",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 25,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/rpg/reloading"
+          "model": "item/relics/rpg/reloading",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  {
+      {
         "threshold": 26,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/rpg/rocket"
+          "model": "item/relics/rpg/rocket",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  
-	  {
+
+      {
         "threshold": 27,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/freeze_bomb/main"
+          "model": "item/relics/freeze_bomb/main",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
         "threshold": 28,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/sonar_grenade/main"
+          "model": "item/relics/sonar_grenade/main",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  {
+      {
         "threshold": 29,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/sticky_grenade/main"
+          "model": "item/relics/sticky_grenade/main",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
-	  
-	  {
+
+      {
         "threshold": 100,
         "model": {
           "type": "minecraft:model",

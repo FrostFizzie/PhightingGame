@@ -9,7 +9,14 @@
         "threshold": 1,
         "model": {
           "type": "minecraft:model",
-          "model": "item/relics/ghost/0"
+          "model": "item/relics/ghost/0",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "source": "minecraft:dyed_color",
+              "default": 16777215
+            }
+          ]
         }
       },
       {
